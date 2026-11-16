@@ -1,10 +1,10 @@
 <div align="center">
 
 # Hi, I'm Nilupul Ruvinda 👋
-### Computer Engineering Undergraduate & Law Student | Full-Stack, AI, Embedded Systems & HPC
+### Computer Engineering Undergraduate | Full-Stack, AI, Embedded Systems & HPC
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/your-username)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
@@ -12,13 +12,12 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Engineering undergraduate at the **University of Sri Jayewardenepura** and a Law student at **Sri Lanka Law College**. I enjoy engineering end-to-end systems that bridge low-level embedded hardware, high-performance computing, machine learning, and scalable full-stack applications—while bringing a structured, analytical mindset from legal studies to system design and governance.
+I am a Computer Engineering undergraduate at the **University of Sri Jayewardenepura**. I enjoy engineering end-to-end systems that bridge low-level embedded hardware, high-performance computing, machine learning, and scalable full-stack applications, while bringing a structured, analytical mindset from legal studies to system design and governance.
 
 - 🧠 **AI & Computer Vision:** Building real-time sign language translation and predictive ML models using Python, OpenCV, MediaPipe, TensorFlow/Keras, and scikit-learn.
 - ⚙️ **Embedded Systems & IoT:** Designing bare-metal microcontroller firmware and wearable safety hardware with AVR (ATmega328P), ESP32, C/C++, and custom sensor networks.
 - 🌐 **Full-Stack & Geospatial Systems:** Architecting containerized backends and cross-platform mobile apps with Spring Boot, Flutter, PostgreSQL/PostGIS, and Docker.
 - ⚡ **High-Performance Computing:** Analyzing parallel algorithm scaling, multi-core architectures, and memory bandwidth bottlenecks using C++ and OpenMP.
-- ♟️ **Beyond Code:** Captain of the Sri Lanka Law College Chess Team and active student leader organizing community service and tech-driven social initiatives.
 
 ---
 
@@ -64,13 +63,6 @@ I am a Computer Engineering undergraduate at the **University of Sri Jayewardene
 ![AVR](https://img.shields.io/badge/ATmega328P_/_AVR-00979D?style=flat-square&logo=microchip&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=flat-square)
-
----
-
-### 🎓 Education & Leadership
-- **B.Sc. Engineering (Hons) in Computer Engineering** — University of Sri Jayewardenepura
-- **Attorney-at-Law Finalist (149th Batch)** — Sri Lanka Law College
-- **Leadership & Governance:** Captain of the Sri Lanka Law College Chess Team, Treasurer of the Law Students' Buddhist Brotherhood, and Committee Member of the Law Students' Sinhala Union.
 
 ---
 
