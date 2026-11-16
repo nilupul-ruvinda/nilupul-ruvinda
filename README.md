@@ -29,7 +29,6 @@ I am a Computer Engineering undergraduate at the **University of Sri Jayewardene
 | **Real-Time ASL Alphabet Translator** | Computer-vision pipeline capturing hand landmarks to classify and translate American Sign Language sequences in real time. | `Python`, `OpenCV`, `MediaPipe`, `TensorFlow`, `Keras` |
 | **Smart Elderly Emergency Monitoring Band** | Wearable IoT safety device featuring fall and inactivity detection, Bluetooth alert countdowns, and a companion mobile interface. | `ESP32`, `C++`, `MPU6050`, `Flutter`, `Bluetooth` |
 | **Parallel Merge Sort HPC Benchmark** | Multi-core performance analysis tool evaluating parallel scaling, thread overhead, and memory bandwidth limitations. | `C++`, `OpenMP`, `CMake` |
-| **AVR Direct Digital Synthesis (DDS) Generator** | Bare-metal function generator outputting custom waveforms via an R-2R ladder DAC with real-time frequency control and LCD readout. | `C`, `ATmega328P`, `Proteus`, `Embedded Systems` |
 
 ---
 
